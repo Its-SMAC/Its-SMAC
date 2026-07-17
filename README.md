@@ -1,63 +1,98 @@
-# Building tools that simplify development.
+<h1 align="center">Building tools that simplify development.</h1>
 
-Backend developer from Portugal 🇵🇹
+<p align="center">
+  Backend Developer • Go • Linux • Developer Tools
+</p>
 
-I enjoy building developer tools that automate repetitive work while
-keeping developers in control.
+<p align="center">
+  <i>Remove repetition. Simplify workflows. Never hide complexity.</i>
+</p>
 
-> Remove repetition. Simplify workflows. Never hide complexity.
+---
 
-## Current Focus
+## 👋 About Me
 
-### Forge
-An ecosystem for building Go APIs with readable code and transparent automation.
+I'm a backend developer from Portugal 🇵🇹 passionate about Go, Linux and developer tooling.
 
-### AppServer *(working title)*
-Native Linux server management without Docker.
-Deploy applications using the operating system itself.
+I build software that automates repetitive work while keeping developers in control.
 
-## Philosophy
+Currently focused on building open-source tools for developers and system administrators.
 
-Every project I build follows the same principles.
+---
 
-- Automate repetitive work.
-- Preserve developer control.
-- Stay transparent about complexity.
-- Prefer native tools over unnecessary abstractions.
+## 📌 What I'm Building
+
+Some of the projects I'm currently building and maintaining.
+
+<p align="center">
+  <a href="https://github.com/Its-SMAC/Forge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-SMAC&repo=Forge&theme=github_dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Its-SMAC/AppServer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-SMAC&repo=AppServer&theme=github_dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Its-SMAC/IPChecker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-SMAC&repo=IPChecker&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+Every project I create is guided by the same principles:
+
+- ⚙️ Automate repetitive work.
+- 👨‍💻 Keep developers in control.
+- 🔍 Stay transparent about complexity.
+- 🐧 Prefer native tools over unnecessary abstractions.
+- 🌍 Prefer open source whenever possible.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,linux,postgres,sqlite,docker,git,bash,github" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- Distributed Systems
+- Linux System Administration
+- Cloud Infrastructure
+
+---
+
+## 🎯 Beyond Code
 
 Outside programming you'll probably find me:
 
-☕ Learning something new
+- 🐧 Exploring Linux
+- ☕ Learning something new
+- 📖 Reading technical books and documentation
+- 🎲 Running RPG campaigns
 
-🐧 Using Linux
+---
 
-📖 Reading documentation
+## 📫 Contact
 
-🎲 Running RPG sessions
+<p align="center">
+  💼 <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  •
+  📧 <a href="mailto:your@email.com">Professional Email</a>
+</p>
 
-Improve some thing
+---
 
-# Contacts
-
-Linkedin - LINK
-Professional Email - EMAIL
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<!--
-**Its-SMAC/Its-SMAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="github-snake.svg" />
+  </picture>
+</p>
