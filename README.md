@@ -17,6 +17,13 @@ I'm a backend developer from Portugal 🇵🇹 passionate about Go, Linux and de
 I build software that automates repetitive work while keeping developers in control.
 
 Currently focused on building open-source tools for developers and system administrators.
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,linux,postgres,sqlite,docker,git,bash,github" />
+</p>
 
 ---
 
@@ -50,14 +57,6 @@ Every project I create is guided by the same principles:
 - 🔍 Stay transparent about complexity.
 - 🐧 Prefer native tools over unnecessary abstractions.
 - 🌍 Prefer open source whenever possible.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,linux,postgres,sqlite,docker,git,bash,github" />
-</p>
 
 ---
 
