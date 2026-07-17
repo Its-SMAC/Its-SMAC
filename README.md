@@ -17,6 +17,7 @@ I'm a backend developer from Portugal 🇵🇹 passionate about Go, Linux and de
 I build software that automates repetitive work while keeping developers in control.
 
 Currently focused on building open-source tools for developers and system administrators.
+
 ---
 
 ## 🛠️ Tech Stack
