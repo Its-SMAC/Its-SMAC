@@ -84,9 +84,9 @@ Outside programming you'll probably find me:
 ## 📫 Contact
 
 <p align="center">
-  💼 <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  💼 <a href="(https://www.linkedin.com/in/santiago-amador-218708420/)">LinkedIn</a>
   •
-  📧 <a href="mailto:your@email.com">Professional Email</a>
+  📧 <a href="mailto:smac.dev25@gmail.com">Professional Email</a>
 </p>
 
 ---
